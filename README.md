@@ -27,7 +27,7 @@ _For run this website you must follow the section below._
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" />  _Have you any question about this project ? Let Me Know !_  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" />
 
-[@My Emaill Address](mailto:amirsky799@gmail.com) - amirsky799@gmail.com
+My Emaill Address: [amirsky799@gmail.com](mailto:amirsky799@gmail.com)
 
 Project Link: [https://github.com/amirsky799/modern_bank_react](https://github.com/amirsky799/modern_bank_react)
 
