@@ -1,6 +1,6 @@
 # Modern UI/UX website using React.js &amp; Tailwind CSS
 
-<a href="https://freeimage.host/i/Hcfw3qx"><img src="https://iili.io/Hcfw3qx.md.png" alt="Hcfw3qx.md.png" border="0"></a>
+<a href="https://freeimage.host/i/Hcfw3qx"><img src="https://iili.io/Hcfw3qx.md.png" alt="Hcfw3qx.md.png" width="100%" height="100%" border="0"></a>
 
 
 ## Available Scripts
