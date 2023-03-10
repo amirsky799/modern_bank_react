@@ -7,16 +7,17 @@
 
 _For run this website you must follow the section below._
 
-1. NPM Installation
-    ```sh
-    npm install npm@latest -g
-    ```
-  
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/amirsky799/modern_bank_react.git
    ```
 
+
+2. NPM Installation
+    ```sh
+    npm install npm@latest -g
+    ```
+  
 3. Run
     ```sh
     npm run dev
